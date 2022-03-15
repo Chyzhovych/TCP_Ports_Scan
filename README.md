@@ -2,4 +2,4 @@
 
 This application is scanning open ports and displaing their.
 
-Technologies: C, Networking, Make.
+Technologies: C/C++, Networking, Make.
